@@ -19,6 +19,9 @@
                 <v-chip class="ma-2" color="green" text-color="white">
                     E-commerce
                 </v-chip>
+                 <v-chip class="ma-2" color="green" text-color="white">
+                    Nothing
+                </v-chip>
             </div>
         </v-col>
     </v-row>
